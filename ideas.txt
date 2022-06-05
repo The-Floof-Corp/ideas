@@ -1,0 +1,6 @@
+1. A private, customisable version of youtube, 
+    but it is ONLY your images/videos. Similar to a version of DropBox, or google photos, 
+    and it would make it easy to share photos and videos across the world with family and friends.
+
+2. An app that conbines all important things you need, in a quick layout. 
+    For example: twitter/facebook posts from friends, emails, calendar events whatsapp/signal/telegram messages and more.
