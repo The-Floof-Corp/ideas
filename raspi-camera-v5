@@ -1,0 +1,18 @@
+# RASPI-CAMERA-V5
+
+
+Features:
+
+-- Gender / age detection
+-- When cat / dog / person detected use telegram to send image to me
+-- Simple GUI
+-- Privacy mode (blanks camera and stops video and audio transmission)
+-- remote viewing (through socket module)
+— txt log of all items detected with time stamps, labels of item. This should be able to be access anywhere. (— log EVERY single action, including; commands used, when person / animal detected, CPU temp, photo-id’s.)
+-- remote admin command line (-- add a "get-logs" command to download the txt log file. -- add a "get-log-images" to download all txt file logs and images, add an onscreen warning mentioning full file size.)
+-- if too many resources being used, look for a backup to assist, such as my Mac, another raspi, my windows.
+-- when a face is detected, make a video showing the previous 10 seconds and the next 30 seconds until the face disappears.
+
+
+# Notes:
+-- Tbh i have *NO* idea why or how it is on version 5 if it hasn't even been developed.
