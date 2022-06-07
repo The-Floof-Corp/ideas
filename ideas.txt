@@ -4,3 +4,6 @@
 
 2. An app that conbines all important things you need, in a quick layout. 
     For example: twitter/facebook posts from friends, emails, calendar events whatsapp/signal/telegram messages and more.
+    
+3. A custom-made, open-source camera software designed to be used on a raspberry pi.
+    See: https://github.com/The-Floof-Corp/ideas/blob/main/raspi-camera-v5 for the main plan.
