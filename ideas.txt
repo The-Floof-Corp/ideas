@@ -7,3 +7,7 @@
     
 3. A custom-made, open-source camera software designed to be used on a raspberry pi.
     See: https://github.com/The-Floof-Corp/ideas/blob/main/raspi-camera-v5 for the main plan.
+
+4. A website made to talk/share things about your pet. 
+    It supports text, images and questions. And everything is minimal, all you can do is look at posts, follow a topic/pet, 
+    leave comments and upvote comments based on whether they were helpful/funny or not.
