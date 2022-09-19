@@ -7,7 +7,7 @@
     whatsapp/signal/telegram messages and more.
     
 3. A custom-made, open-source camera software designed to be used on a raspberry pi.
-    See: https://github.com/The-Floof-Corp/ideas/blob/main/raspi-camera-v5 for the main plan.
+    See: https://raw.githubusercontent.com/The-Floof-Corp/ideas/main/raspi-camera-v5 for the main plan.
 
 4. A social media website designed to allow users to show/talk about their pet.
     It supports text(announcements), images and videos. There would also be a forum where any user can ask 
